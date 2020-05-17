@@ -1,4 +1,4 @@
 # GSTI-TOTVS
-Gestão e Suporte a ERP Totvs Protheus
+Gestão de Sistema Protheus
 
 O conteúdo está em Wiki.
